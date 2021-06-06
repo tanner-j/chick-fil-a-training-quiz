@@ -21,6 +21,11 @@
     }
 }
 
+.favicon {
+    width: 16px;
+    height: 16px;
+}
+
 .dots {
     width: 100vw;
     margin-bottom: 3rem;
