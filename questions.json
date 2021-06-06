@@ -1,0 +1,124 @@
+[
+    {
+        "question": "Which of the following options is not one of Chick-fil-A's 'Core 4'?",
+        "choice1": "Always say 'My pleasure'",
+        "choice2": "Provide quick and accurate service",
+        "choice3": "Share a smile",
+        "choice4": "Create eye contact",
+        "answer": 2
+    },
+    {
+        "question": "What is the vision of our restaurant at CFA Windy Hill?",
+        "choice1": "Bring joy to guests",
+        "choice2": "Be quick and accurate, but never rushed",
+        "choice3": "Give and expect nothing in return",
+        "choice4": "Make a difference",
+        "answer": 4
+    },
+    {
+        "question": "A guest would like to order a Cobb Salad. Which of the following modifications does our restaurant not allow?",
+        "choice1": "No tomatoes",
+        "choice2": "No bacon",
+        "choice3": "No cheese",
+        "choice4": "No egg",
+        "answer": 1
+    },
+    {
+        "question": "Which sauce goes with every grilled sandwich?",
+        "choice1": "BBQ",
+        "choice2": "Honey Roasted BBQ",
+        "choice3": "Chick-fil-A Sauce",
+        "choice4": "Mayonnaise",
+        "answer": 2
+    },
+    {
+        "question": "A guest would like to order a vanilla milkshake with whipped cream and no cherry. Which POS input displays the guest's combination correctly?",
+        "choice1": "' + Whipped Cream', ' + Cherry'",
+        "choice2": "' - Whipped Cream', ' - Cherry'",
+        "choice3": "' - Whipped Cream', ' + Cherry'",
+        "choice4": "' + Whipped Cream', ' - Cherry'",
+        "answer": 4
+    },
+    {
+        "image": "images/black-lexus.png",
+        "question": "This vehicle approaches you on F2F. Which of the following is the most accurate car desrciption?",
+        "choice1": "Black SUV",
+        "choice2": "Black Toyota",
+        "choice3": "Black Lexus",
+        "choice4": "Black Infinity",
+        "answer": 3
+    },
+    {
+        "question": "Which salad kit contains Crispy Bell Peppers and Chili Lime Pepitas?",
+        "choice1": "Market Salad",
+        "choice2": "Spicy Southwest Salad",
+        "choice3": "Cobb Salad",
+        "choice4": "None of the above",
+        "answer": 4
+    },
+    {
+        "question": "How many pumps of French Vanilla Syrup are added to a Vanilla Iced Coffee, unless specified otherwise?",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "4",
+        "answer": 3
+    },
+    {
+        "question": "A guest specifies that he/she would not like any sauces or condiments. As an order taker, what should you do with this information?",
+        "choice1": "Let the bag stuffer know there are no condiments for the order",
+        "choice2": "Do nothing since no condiments are needed",
+        "choice3": "Leave a comment under 'Open Comment' option",
+        "choice4": "Use the 'No Cdmt' button on the POS/iPad",
+        "answer": 4
+    },
+    {
+        "question": "Which lunch item does CFA Windy Hill offer during breakfast hours?",
+        "choice1": "Chick-fil-A Nuggets",
+        "choice2": "Chick-fil-A Sandwich",
+        "choice3": "Grilled Nuggets",
+        "choice4": "Waffle Potato Fries",
+        "answer": 1
+    },
+    {
+        "question": "A guest would like to order a Greek Yogurt Parfait. Which topping option does CFA Windy Hill not offer?",
+        "choice1": "Cookie Crumbs",
+        "choice2": "No fresh berries",
+        "choice3": "No Granola",
+        "choice4": "Extra Granola",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following does not belong in a Cobb Salad kit?",
+        "choice1": "Fork",
+        "choice2": "Tortilla Strips",
+        "choice3": "Napkins",
+        "choice4": "Crispy Bell Peppers",
+        "answer": 2
+    },
+    {
+        "question": "Using the iPad, what is the proper way to ring up multiple orders in the DT?",
+        "choice1": "Use the same name for each order and store the orders one at a time",
+        "choice2": "Use the 'Same Car' button in ascending order, hold the orders and store when complete",
+        "choice3": "Use the 'Same Car' button in descending order, hold the orders and store when complete",
+        "choice4": "Use the 'Seat Total' button under 'Other Functions', take the orders and store when complete",
+        "answer": 3
+    },
+    {
+        "question": "Which position does not require a reflective vest?",
+        "choice1": "Front Counter",
+        "choice2": "Headset",
+        "choice3": "F2F",
+        "choice4": "Expo",
+        "answer": 2
+    },
+    {
+        "question": "What is the allowed grace period to clock in before you are considered tardy for work?",
+        "choice1": "1 minute",
+        "choice2": "3 minutes",
+        "choice3": "5 minutes",
+        "choice4": "10 minutes",
+        "answer": 3
+    }
+    
+]

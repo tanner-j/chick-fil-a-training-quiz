@@ -1,0 +1,95 @@
+.choice-container{
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 1.8rem;
+    border: 0.1rem solid #004f7183;
+    background-color: white;
+}
+
+.choice-container:hover{
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1rem 0 #8898a3;
+    transform: translateY(-0.1rem);
+    transition: transform 150ms;
+}
+
+.choice-prefix{
+    padding: 1.5rem 2.5rem;
+    background-color: #004f71;
+    color: white;
+}
+
+.choice-text{
+    padding: 1.5rem;
+    width: 100%;
+}
+
+.correct{
+    background-color: rgba(5, 177, 5, 0.205);
+}
+
+.incorrect{
+    background-color: rgba(255, 0, 0, 0.205);
+}
+
+#image {
+    width: 35rem;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -0.5rem;
+    margin-top: -0.5rem;
+    
+}
+
+/* HUD */
+
+#hud {
+    display: flex;
+    justify-content: space-between;
+}
+
+.hud-prefix{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hud-main-text{
+    text-align: center;
+    font-size: 4rem;
+}
+
+#progressBar{
+    width: 20rem;
+    height: 3.2rem;
+    border: 0.3rem solid #004f71;
+    margin-top: 0.6rem;
+}
+
+#progressBarFull{
+    height: 2.8rem;
+    background-color: #004f7152;
+    background-image: url(/images/progress.svg);
+    background-size: cover;
+    border: 0.2rem 0.4rem solid #004f71;
+    width: 0%;
+}
+
+/* Loader */
+#loader{
+    border: 1.6rem solid white;
+    border-radius: 50%;
+    border-top: 1.6rem solid #E5173F;
+    width: 12rem;
+    height: 12rem;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
