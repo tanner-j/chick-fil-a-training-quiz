@@ -16,6 +16,9 @@
     :root{
         font-size: 40%;
     }
+    .container{
+        justify-content: center;
+    }
 }
 
 .dots {
