@@ -12,6 +12,12 @@
     color: #5b6770;
 }
 
+@media only screen and (max-width: 768px) {
+    :root{
+        font-size: 40%;
+    }
+}
+
 .dots {
     width: 100vw;
     margin-bottom: 3rem;
