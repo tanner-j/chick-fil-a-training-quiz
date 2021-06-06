@@ -69,7 +69,7 @@
 #progressBarFull{
     height: 2.8rem;
     background-color: #004f7152;
-    background-image: url(../images/progress.svg);
+    background-image: url(images/progress.svg);
     background-size: cover;
     border: 0.2rem 0.4rem solid #004f71;
     width: 0%;
