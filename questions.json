@@ -119,6 +119,94 @@
         "choice3": "5 minutes",
         "choice4": "10 minutes",
         "answer": 3
+    },
+    {
+        "question": "A beverage is made with lid punches 'TEA' and 'DIET'. Which of the following beverages does this refer to?",
+        "choice1": "Sweet Tea with added Splenda",
+        "choice2": "Diet Sunjoy",
+        "choice3": "Half Sweet Tea, Half Unsweet Tea",
+        "choice4": "Unsweet Tea",
+        "answer": 4
+    },
+    {
+        "question": "A guest would like to order a Spicy Southwest Salad with no chicken. Which of the following is the correct way to input the order?",
+        "choice1": "Use the 'Spicy SW Salad' button and leave an open comment 'NO CHICKEN'",
+        "choice2": "Use the 'Spicy SW Salad' button and let the bagger know there should be no chicken",
+        "choice3": "Use the 'Spicy SW Salad' and ' - Spicy Ckn Filet' buttons",
+        "choice4": "Use the 'Spicy SW Salad Base' button",
+        "answer": 4
+    },
+    {
+        "question": "What should be the first thing you ask a guest to start his/her order?",
+        "choice1": "How many meals the guest will be ordering",
+        "choice2": "The guest's name",
+        "choice3": "If the guest has the CFA One App downloaded",
+        "choice4": "Which items the guest would like to order",
+        "answer": 2
+    },
+    {
+        "question": "A beverage is made with lid punch 'COKE' and looks clear. Which of the following beverages does this refer to?",
+        "choice1": "Water",
+        "choice2": "Soda Water",
+        "choice3": "Sprite",
+        "choice4": "Coke",
+        "answer": 3
+    },
+    {
+        "question": "Which salad kit contains Roasted Almonds and Harvest Nut Granola?",
+        "choice1": "Cobb Salad",
+        "choice2": "Market Salad",
+        "choice3": "Spicy Southwest Salad",
+        "choice4": "None of the above",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following items are you responsible for when on F2F?",
+        "choice1": "Reflective vest",
+        "choice2": "iPad sunshade",
+        "choice3": "Menu",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "What time does Chick-fil-A stop serving breakfast?",
+        "choice1": "10:00 AM",
+        "choice2": "10:30 AM",
+        "choice3": "10:31 AM",
+        "choice4": "11:00 AM",
+        "answer": 2
+    },
+    {
+        "question": "Suppose you are scheduled to clock in at 8:00 AM. What is the earliest time you are able to clock in without manager approval?",
+        "choice1": "7:55 AM",
+        "choice2": "7:57 AM",
+        "choice3": "7:58 AM",
+        "choice4": "8:00 AM",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is a violation of CFA Windy Hill Team Member Appearance policy?",
+        "choice1": "Black non-slip sneakers",
+        "choice2": "Gel nails not visible from palm-facing view",
+        "choice3": "Dark blue socks",
+        "choice4": "Platinum blonde hair",
+        "answer": 3
+    },
+    {
+        "question": "What is located on the back of your CFA nametag?",
+        "choice1": "Full name",
+        "choice2": "Clock-in number",
+        "choice3": "Pathway password",
+        "choice4": "Personal phone number",
+        "answer": 2
+    },
+    {
+        "question": "What is the objective of Second Mile Service?",
+        "choice1": "Create a moment",
+        "choice2": "Go above and beyond expectations",
+        "choice3": "Share joy with guests",
+        "choice4": "Recover from bad guest experiences",
+        "answer": 1
     }
     
 ]
